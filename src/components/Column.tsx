@@ -1,4 +1,4 @@
-import type { Column as ColumnType, Task } from '../types';
+import type { Column as ColumnType } from '../types';
 import { Task as TaskComponent } from './Task';
 import { Droppable } from '@hello-pangea/dnd';
 
